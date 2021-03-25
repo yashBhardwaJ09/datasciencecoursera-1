@@ -1,2 +1,2 @@
 ## This is a markdown file
-click 'raw' to see file source with the pound signs
+This is a compiled file that doesn't show '##'. Click 'Raw' to see file source with the pound signs.
